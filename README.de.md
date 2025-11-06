@@ -219,7 +219,7 @@ Präpositionen, die den Genitiv verlangen: während, wegen, trotz, (an)statt, in
 
 ### Interaktive Lernplattformen
 
-- [Deutsche Welle - Deutsch lernen](https://learngerman.dw.com/) - Kostenloser umfassender Kurs von A1 bis C.
+- [Deutsche Welle - Deutsch lernen](https://learngerman.dw.com/) - Kostenloser umfassender Kurs von A1 bis C1.
 - [Deutsch Akademie](https://deutsch.info/en/grammar) - Kostenlose Grammatikübungen mit Erklärungen.
 - [Schubert Verlag Online-Übungen](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm) - Niveauspezifische Grammatikübungen.
 - [IFU Sprachinstitut](https://www.ifu-institut.at/de/deutschlernen/online-uebungen) - Interaktive Übungen für alle Niveaus.

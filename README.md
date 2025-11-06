@@ -219,7 +219,7 @@ Prepositions that take the genitive case: während, wegen, trotz, (an)statt, inn
 
 ### Interactive Learning Platforms
 
-- [Deutsche Welle - Learn German](https://learngerman.dw.com/) - Free comprehensive course from A1 to C.
+- [Deutsche Welle - Learn German](https://learngerman.dw.com/) - Free comprehensive course from A1 to C1.
 - [Deutsch Akademie](https://deutsch.info/en/grammar) - Free grammar exercises with explanations.
 - [Schubert Verlag Online Exercises](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm) - Level-specific grammar practice.
 - [IFU Sprachinstitut](https://www.ifu-institut.at/de/deutschlernen/online-uebungen) - Interactive exercises for all levels.

@@ -219,7 +219,7 @@
 
 ### インタラクティブ学習プラットフォーム
 
-- [Deutsche Welle - ドイツ語を学ぶ](https://learngerman.dw.com/) - A1からCまでの無料総合コース。
+- [Deutsche Welle - ドイツ語を学ぶ](https://learngerman.dw.com/) - A1からC1までの無料総合コース。
 - [Deutsch Akademie](https://deutsch.info/en/grammar) - 説明付きの無料文法練習問題。
 - [Schubert Verlag オンライン練習問題](https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm) - レベル別の文法練習。
 - [IFU Sprachinstitut](https://www.ifu-institut.at/de/deutschlernen/online-uebungen) - すべてのレベルのインタラクティブ練習問題。
