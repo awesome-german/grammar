@@ -322,3 +322,18 @@ When contributing, please ensure that:
 ---
 
 **Note:** This is a community-curated list. While we strive for accuracy, please verify information from multiple sources when learning German grammar.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**non-regular-use-kanji-research-resource**](https://github.com/japanese-language/non-regular-use-kanji-research-resource) — 表外漢字 (hyōgai kanji / 非常用漢字) research resource map. An annotated, provenance-tracked catalogue of authoritative sources on the kanji outside…
+- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
+- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
+- [**terminology**](https://github.com/awesome-german/terminology)
+- [**pragmatics**](https://github.com/awesome-german/pragmatics)
+- [**phonetics**](https://github.com/awesome-german/phonetics) — IPA-based German pronunciation guides
+- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+<!-- END gh-mutual-linking -->
