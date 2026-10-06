@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "awesome-german/grammar"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/grammar"
+url: "https://github.com/awesome-german/grammar"
+license: CC-BY-4.0
+abstract: "Resources for learning German grammar, including structures, syntax, and usage nuances."
+keywords:
+  - awesome-list
+  - german
+  - language-learning
+  - grammar

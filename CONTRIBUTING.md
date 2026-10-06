@@ -1,100 +1,19 @@
-# Contributing to Awesome German Grammar
+# Contributing
 
-Thank you for your interest in contributing to the Awesome German Grammar list! This document provides guidelines for making contributions.
+Suggestions, corrections and removals are welcome. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## How to Contribute
+## Adding a resource
 
-1. **Fork the repository** and create a new branch for your contribution
-2. **Make your changes** following the guidelines below
-3. **Submit a pull request** with a clear description of what you're adding or changing
+Search the list first, so the same resource doesn't appear twice. Add one entry to the section where it fits best, in the same format as the entries around it, and link to the official page without tracking or referral parameters. One plain sentence should say what the resource is and who it's for, and mention it if the resource is paid.
 
-## Contribution Guidelines
+## Fixing or removing an entry
 
-### Adding Resources
+Open an issue or a pull request for a broken link, an outdated description, or a resource that no longer fits. If you own a listed resource and want its entry changed or removed, an issue is enough.
 
-When adding a new resource, please ensure:
+## Pull requests
 
-- **Relevance**: The resource is directly related to German grammar, syntax, or usage
-- **Quality**: The content is accurate, well-maintained, and helpful for learners
-- **Accessibility**: Links are working and publicly accessible
-- **Description**: Include a brief, clear description of what the resource offers
-- **Format**: Follow the existing format:
-  ```markdown
-  - [Resource Name](URL) - Brief description of the resource.
-  ```
+Keep each pull request to one resource or one fix, and check every link you add or change. Edit `README.md` only; maintainers update the translated READMEs where a repository has them.
 
-### Categories
+## License
 
-- Place resources in the most appropriate existing category
-- If suggesting a new category, ensure it:
-  - Contains or will contain at least 3 quality resources
-  - Is distinct from existing categories
-  - Follows a logical organization structure
-
-### Quality Standards
-
-Resources should:
-- Be accessible (free or clearly indicate if paid)
-- Have content in English, German, or Japanese (or be universally understandable)
-- Be actively maintained (for online resources and tools)
-- Not contain excessive advertising or require unnecessary registration
-
-### What NOT to Include
-
-Please avoid adding:
-- Pirated or illegally shared content
-- Resources primarily focused on vocabulary rather than grammar
-- General language learning resources without specific grammar focus
-- Duplicate links already in the list
-- Broken or inactive links
-- Resources with poor quality or misleading information
-
-## Translation Contributions
-
-We maintain this guide in three languages:
-- English (README.md)
-- Japanese (README.ja.md)
-- German (README.de.md)
-
-When adding content:
-- Add the resource to all three language versions when possible
-- Keep translations consistent in structure and meaning
-- Native speakers are especially welcome to review and improve translations
-
-## Style Guidelines
-
-- Use consistent formatting throughout
-- Maintain alphabetical order within subsections where applicable
-- Use proper markdown syntax
-- Check spelling and grammar
-- Keep descriptions concise but informative
-
-## Updating Existing Resources
-
-If you find:
-- A broken link → Submit a PR removing it or replacing it with an updated link
-- Outdated information → Update the description or remove the resource
-- Better categorization → Suggest moving the resource to a more appropriate section
-
-## Review Process
-
-All contributions will be reviewed to ensure they meet these guidelines. Reviews typically focus on:
-- Relevance and quality of the resource
-- Proper formatting and organization
-- Accuracy of descriptions
-- Appropriate categorization
-
-## Code of Conduct
-
-- Be respectful and constructive in all interactions
-- Focus on what's best for German language learners
-- Welcome newcomers and help them understand the guidelines
-- Appreciate that this is a community effort
-
-## Questions?
-
-If you're unsure about whether a contribution fits or have questions about these guidelines, feel free to open an issue for discussion before submitting a pull request.
-
----
-
-Thank you for helping make this resource better for the German learning community!
+By contributing, you agree that your contribution is licensed under [CC BY 4.0](LICENSE), the same license as the list.

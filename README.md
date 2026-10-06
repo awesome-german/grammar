@@ -308,6 +308,12 @@ Prepositions that take the genitive case: während, wegen, trotz, (an)statt, inn
 - [German Memes](https://www.instagram.com/german_memes/) - Learn through humor.
 - [Deutsche Welle on Twitter](https://twitter.com/dw_learngerman) - Daily German learning tips.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -323,17 +329,21 @@ When contributing, please ensure that:
 
 **Note:** This is a community-curated list. While we strive for accuracy, please verify information from multiple sources when learning German grammar.
 
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
 <!-- BEGIN gh-mutual-linking -->
 
 ---
 
 ### Related projects
 
-- [**non-regular-use-kanji-research-resource**](https://github.com/japanese-language/non-regular-use-kanji-research-resource) — 表外漢字 (hyōgai kanji / 非常用漢字) research resource map. An annotated, provenance-tracked catalogue of authoritative sources on the kanji outside…
-- [**kana-transliterator**](https://github.com/html-js/kana-transliterator) — Single-file browser tool that transliterates Japanese kana into Cyrillic (Polivanov), Hepburn, French, and German
-- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
-- [**terminology**](https://github.com/awesome-german/terminology)
-- [**pragmatics**](https://github.com/awesome-german/pragmatics)
-- [**phonetics**](https://github.com/awesome-german/phonetics) — IPA-based German pronunciation guides
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+- [pragmatics](https://github.com/awesome-german/pragmatics): Resources for German pragmatics, covering contextual language use, politeness strategies, and discourse analysis.
+- [reading](https://github.com/awesome-german/reading): Articles, short stories, and graded reading materials to enhance comprehension and fluency in German.
+- [learning-tools](https://github.com/awesome-german/learning-tools): Apps and materials for German language and its comparison.
+- [websites](https://github.com/awesome-german/websites): Trusted websites, online courses, and resources for mastering German from beginner to advanced.
+
 <!-- END gh-mutual-linking -->
